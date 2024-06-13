@@ -1,2 +1,2 @@
 nginx
-cloudnas/clouddrive2
+cloudnas/clouddrive2:arm64-0.7.3
