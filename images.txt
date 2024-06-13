@@ -1,1 +1,1 @@
-cloudnas/clouddrive2:arm32
+cloudnas/clouddrive2:latest
