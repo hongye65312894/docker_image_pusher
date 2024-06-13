@@ -1,2 +1,1 @@
-nginx
-cloudnas/clouddrive2:arm64-0.7.3
+cloudnas/clouddrive2:arm32
